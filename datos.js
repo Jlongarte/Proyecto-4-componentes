@@ -2,7 +2,7 @@ const data = {
   name: "Janire Longarte",
   address: "Madrid, España",
   email: "peter.parker@gmail.com",
-  avatar: "/public/assets/imagen.jpg",
+  avatar: "/assets/imagen.jpg",
   aboutMe:
     "I'm a passionate photographer, web developer, and journalist with a diverse educational background. I hold a Bachelor's degree in Science, a Web Development Certification, and a Master's in Journalism. My work experience includes capturing exclusive images as a photographer, developing web applications, and reporting on news stories. I'm committed to continuous learning and contributing to both the digital world and quality journalism.",
 
